@@ -29,7 +29,7 @@ function generatePassword(){
    if(useLowerCase) {
  randomCharacters = randomCharacters.concat(lowerCase);
   }
-  //my commit isnt working 
+  
   if(useUpperCase) {
     randomCharacters = randomCharacters.concat(upperCase);
      }
